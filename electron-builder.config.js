@@ -1,13 +1,13 @@
 /* eslint-disable no-template-curly-in-string */
-const nameEN = 'SimpleMusic'
+const nameEN = 'tv'
 
 /**
  * @type {import('electron-builder').Configuration}
  * @see https://www.electron.build/configuration/configuration
  */
 module.exports = {
-  productName: '轻音乐',
-  appId: 'com.joey.music',
+  productName: 'TV',
+  appId: 'com.joey.tv',
   artifactName: nameEN + '-${version}-${os}-${arch}.${ext}',
   directories: {
     output: 'release',

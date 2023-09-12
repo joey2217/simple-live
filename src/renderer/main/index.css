@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --main-color: #4f46e5;
+  --fallback-title-bar-height: 40px;
+}
+
+.draggable {
+  app-region: drag;
+  -webkit-app-region: drag;
+}
+
+#titleBarContainer {
+  position: fixed;
+  top: env(titlebar-area-y, 0);
+  height: env(titlebar-area-height, var(--fallback-title-bar-height));
+  width: 100%;
+  cursor: pointer;
+  z-index: 99;
+  box-sizing: content-box;
+}
+
+#titleBar,
+.titleBar {
+  position: absolute;
+  top: 0;
+  display: flex;
+  height: 100%;
+  left: env(titlebar-area-x, 0);
+  width: env(titlebar-area-width, 100%);
+  text-align: center;
+}
+
+.titleBar-left {
+  left: env(titlebar-area-x, 0);
+}
+
+.titleBar-top {
+  top: env(titlebar-area-height, var(--fallback-title-bar-height));
+}
+
+.titleBar-width {
+  width: env(titlebar-area-width, 100%);
+}
+
+#main {
+  height: calc(100vh - 40px);
+  overflow: auto;
+}
+
+.titleBar-ml {
+  margin-left: env(titlebar-area-x, 0);
+}
+.titleBar-mr {
+  margin-right: env(titlebar-area-x, 0);
+}
+
+.link.active {
+  color: var(--main-color);
+}

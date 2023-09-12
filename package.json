@@ -2,17 +2,29 @@
   "name": "simple-live",
   "version": "1.0.0",
   "description": "simple-live",
-  "main": "electron-builder.config.js",
+  "main": "./dist/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "publish": "npm run build && electron-builder build -c electron-builder.config.js -p always",
+    "package": "npm run build && electron-builder build -c electron-builder.config.js",
+    "dev": "node scripts/dev.js",
+    "dev:renderer": "vite src/renderer",
+    "build": "node scripts/build.js",
+    "prebuild": "npm run check",
+    "check": "tsc --noEmit -p tsconfig.node.json && tsc --noEmit -p tsconfig.json",
+    "test": "vitest",
+    "postinstall": "electron-builder install-app-deps"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "electron-log": "^4.4.8",
+    "electron-updater": "^6.1.4",
+    "hls.js": "^1.4.12",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.15.0"
+    "react-router-dom": "^6.15.0",
+    "zustand": "^4.4.1"
   },
   "devDependencies": {
     "@types/node": "^20.6.0",
@@ -20,6 +32,7 @@
     "@types/react-dom": "^18.2.7",
     "@vitejs/plugin-react-swc": "^3.3.2",
     "autoprefixer": "^10.4.15",
+    "daisyui": "^3.7.3",
     "electron": "^26.2.0",
     "electron-builder": "^24.6.4",
     "eslint": "^8.49.0",

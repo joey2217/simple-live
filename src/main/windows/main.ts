@@ -1,7 +1,5 @@
-import { BrowserWindow, dialog } from 'electron'
-import log from 'electron-log'
+import { BrowserWindow } from 'electron'
 import * as path from 'path'
-import type { OpenDialogOptions } from 'electron'
 
 let win: BrowserWindow = null!
 
@@ -25,15 +23,17 @@ export function create() {
   })
   win.once('ready-to-show', () => {
     win.show()
-    // win.webContents.openDevTools({ mode: 'bottom' })
-  })
-
-  win.on('close', (e) => {
-    if (!quit) {
-      e.preventDefault()
-      win.hide()
+    if (import.meta.env.DEV) {
+      win.webContents.openDevTools({ mode: 'bottom' })
     }
   })
+
+  // win.on('close', (e) => {
+  //   if (!quit) {
+  //     e.preventDefault()
+  //     win.hide()
+  //   }
+  // })
 
   if (import.meta.env.DEV) {
     win.loadURL('http://localhost:5174')
@@ -50,14 +50,6 @@ export function focus() {
   }
 }
 
-export function send(channel: string, ...args: any[]) {
-  win.webContents.send(channel, ...args)
-}
-
-export function showOpenDialog(options: OpenDialogOptions) {
-  return dialog.showOpenDialog(win, options)
-}
-
 export function setMainTitleBarOverlay(
   options: Electron.TitleBarOverlayOptions
 ) {
@@ -66,11 +58,6 @@ export function setMainTitleBarOverlay(
   }
 }
 
- 
-export function beforeQuit() {
-  quit = true
-}
-
-export function mainNavigate(to: string) {
-  send('NAVIGATE', to)
+export function send(channel: string, ...args: any[]) {
+  win.webContents.send(channel, ...args)
 }

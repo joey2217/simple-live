@@ -1,6 +1,4 @@
 import { useRouteError } from 'react-router-dom'
-import { ErrorCircle } from '../../components/icons'
-import ThemeButton from '../../layout/ThemeButton'
 
 export default function ErrorPage() {
   const error = useRouteError() as any
@@ -15,12 +13,12 @@ export default function ErrorPage() {
             <div className="flex-1 h-full draggable leading-10 text-left">
               Error
             </div>
-            <ThemeButton />
+            {/* <ThemeButton /> */}
           </div>
         </div>
       </header>
       <div className="text-center p-10 flex gap-2 flex-col">
-        <ErrorCircle className="text-8xl mx-auto text-red-500" />
+        {/* <ErrorCircle className="text-8xl mx-auto text-red-500" /> */}
         <h1 className="font-semibold text-xl">出错了!</h1>
         <p>发生错误了,请稍后再试或向开发者反馈!</p>
         {error && (
@@ -37,7 +35,7 @@ export default function ErrorPage() {
           </button>
         </div>
         <div>
-          <button
+          {/* <button
             className="default-btn"
             onClick={() =>
               window.electronAPI.openExternal(
@@ -46,7 +44,7 @@ export default function ErrorPage() {
             }
           >
             反馈BUG
-          </button>
+          </button> */}
         </div>
       </div>
     </div>

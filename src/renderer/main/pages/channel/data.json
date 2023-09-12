@@ -1,0 +1,1469 @@
+[
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cctv1",
+    "name": "CCTV-1 综合",
+    "tvgId": "CCTV1",
+    "tvgName": "CCTV1",
+    "tvgLogo": "https://live.fanmingming.com/tv/CCTV1.png",
+    "groupTitle": "央视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cctv2",
+    "name": "CCTV-2 财经",
+    "tvgId": "CCTV2",
+    "tvgName": "CCTV2",
+    "tvgLogo": "https://live.fanmingming.com/tv/CCTV2.png",
+    "groupTitle": "央视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cctv3",
+    "name": "CCTV-3 综艺",
+    "tvgId": "CCTV3",
+    "tvgName": "CCTV3",
+    "tvgLogo": "https://live.fanmingming.com/tv/CCTV3.png",
+    "groupTitle": "央视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cctv4",
+    "name": "CCTV-4 中文国际",
+    "tvgId": "CCTV4",
+    "tvgName": "CCTV4",
+    "tvgLogo": "https://live.fanmingming.com/tv/CCTV4.png",
+    "groupTitle": "央视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cctv5",
+    "name": "CCTV-5 体育",
+    "tvgId": "CCTV5",
+    "tvgName": "CCTV5",
+    "tvgLogo": "https://live.fanmingming.com/tv/CCTV5.png",
+    "groupTitle": "央视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cctv5p",
+    "name": "CCTV-5+ 体育赛事",
+    "tvgId": "CCTV5+",
+    "tvgName": "CCTV5+",
+    "tvgLogo": "https://live.fanmingming.com/tv/CCTV5+.png",
+    "groupTitle": "央视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cctv6",
+    "name": "CCTV-6 电影",
+    "tvgId": "CCTV6",
+    "tvgName": "CCTV6",
+    "tvgLogo": "https://live.fanmingming.com/tv/CCTV6.png",
+    "groupTitle": "央视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cctv7",
+    "name": "CCTV-7 国防军事",
+    "tvgId": "CCTV7",
+    "tvgName": "CCTV7",
+    "tvgLogo": "https://live.fanmingming.com/tv/CCTV7.png",
+    "groupTitle": "央视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cctv8",
+    "name": "CCTV-8 电视剧",
+    "tvgId": "CCTV8",
+    "tvgName": "CCTV8",
+    "tvgLogo": "https://live.fanmingming.com/tv/CCTV8.png",
+    "groupTitle": "央视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cctv9",
+    "name": "CCTV-9 纪录",
+    "tvgId": "CCTV9",
+    "tvgName": "CCTV9",
+    "tvgLogo": "https://live.fanmingming.com/tv/CCTV9.png",
+    "groupTitle": "央视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cctv10",
+    "name": "CCTV-10 科教",
+    "tvgId": "CCTV10",
+    "tvgName": "CCTV10",
+    "tvgLogo": "https://live.fanmingming.com/tv/CCTV10.png",
+    "groupTitle": "央视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cctv11",
+    "name": "CCTV-11 戏曲",
+    "tvgId": "CCTV11",
+    "tvgName": "CCTV11",
+    "tvgLogo": "https://live.fanmingming.com/tv/CCTV11.png",
+    "groupTitle": "央视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cctv12",
+    "name": "CCTV-12 社会与法",
+    "tvgId": "CCTV12",
+    "tvgName": "CCTV12",
+    "tvgLogo": "https://live.fanmingming.com/tv/CCTV12.png",
+    "groupTitle": "央视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cctv13",
+    "name": "CCTV-13 新闻",
+    "tvgId": "CCTV13",
+    "tvgName": "CCTV13",
+    "tvgLogo": "https://live.fanmingming.com/tv/CCTV13.png",
+    "groupTitle": "央视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cctv14",
+    "name": "CCTV-14 少儿",
+    "tvgId": "CCTV14",
+    "tvgName": "CCTV14",
+    "tvgLogo": "https://live.fanmingming.com/tv/CCTV14.png",
+    "groupTitle": "央视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cctv15",
+    "name": "CCTV-15 音乐",
+    "tvgId": "CCTV15",
+    "tvgName": "CCTV15",
+    "tvgLogo": "https://live.fanmingming.com/tv/CCTV15.png",
+    "groupTitle": "央视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cctv16",
+    "name": "CCTV-16 奥林匹克",
+    "tvgId": "CCTV16",
+    "tvgName": "CCTV16",
+    "tvgLogo": "https://live.fanmingming.com/tv/CCTV16.png",
+    "groupTitle": "央视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cctv17",
+    "name": "CCTV-17 农业农村",
+    "tvgId": "CCTV17",
+    "tvgName": "CCTV17",
+    "tvgLogo": "https://live.fanmingming.com/tv/CCTV17.png",
+    "groupTitle": "央视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cctv4k",
+    "name": "CCTV-4K 超高清",
+    "tvgId": "CCTV4K",
+    "tvgName": "CCTV4K",
+    "tvgLogo": "https://live.fanmingming.com/tv/CCTV4K.png",
+    "groupTitle": "央视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cctv164k",
+    "name": "CCTV-16 4K",
+    "tvgId": "CCTV16",
+    "tvgName": "CCTV16",
+    "tvgLogo": "https://live.fanmingming.com/tv/CCTV16.png",
+    "groupTitle": "央视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=bjws",
+    "name": "北京卫视",
+    "tvgId": "北京卫视",
+    "tvgName": "北京卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/北京卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=dfws",
+    "name": "东方卫视",
+    "tvgId": "东方卫视",
+    "tvgName": "东方卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/东方卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=tjws",
+    "name": "天津卫视",
+    "tvgId": "天津卫视",
+    "tvgName": "天津卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/天津卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cqws",
+    "name": "重庆卫视",
+    "tvgId": "重庆卫视",
+    "tvgName": "重庆卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/重庆卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=hljws",
+    "name": "黑龙江卫视",
+    "tvgId": "黑龙江卫视",
+    "tvgName": "黑龙江卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/黑龙江卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=jlws",
+    "name": "吉林卫视",
+    "tvgId": "吉林卫视",
+    "tvgName": "吉林卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/吉林卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=lnws",
+    "name": "辽宁卫视",
+    "tvgId": "辽宁卫视",
+    "tvgName": "辽宁卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/辽宁卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=nmws",
+    "name": "内蒙古卫视",
+    "tvgId": "内蒙古卫视",
+    "tvgName": "内蒙古卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/内蒙古卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=nxws",
+    "name": "宁夏卫视",
+    "tvgId": "宁夏卫视",
+    "tvgName": "宁夏卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/宁夏卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=gsws",
+    "name": "甘肃卫视",
+    "tvgId": "甘肃卫视",
+    "tvgName": "甘肃卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/甘肃卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=qhws",
+    "name": "青海卫视",
+    "tvgId": "青海卫视",
+    "tvgName": "青海卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/青海卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=sxws",
+    "name": "陕西卫视",
+    "tvgId": "陕西卫视",
+    "tvgName": "陕西卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/陕西卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=hbws",
+    "name": "河北卫视",
+    "tvgId": "河北卫视",
+    "tvgName": "河北卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/河北卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=sxiws",
+    "name": "山西卫视",
+    "tvgId": "山西卫视",
+    "tvgName": "山西卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/山西卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=sdws",
+    "name": "山东卫视",
+    "tvgId": "山东卫视",
+    "tvgName": "山东卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/山东卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=ahws",
+    "name": "安徽卫视",
+    "tvgId": "安徽卫视",
+    "tvgName": "安徽卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/安徽卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=hnws",
+    "name": "河南卫视",
+    "tvgId": "河南卫视",
+    "tvgName": "河南卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/河南卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=hubws",
+    "name": "湖北卫视",
+    "tvgId": "湖北卫视",
+    "tvgName": "湖北卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/湖北卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=hunws",
+    "name": "湖南卫视",
+    "tvgId": "湖南卫视",
+    "tvgName": "湖南卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/湖南卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=jxws",
+    "name": "江西卫视",
+    "tvgId": "江西卫视",
+    "tvgName": "江西卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/江西卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=jsws",
+    "name": "江苏卫视",
+    "tvgId": "江苏卫视",
+    "tvgName": "江苏卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/江苏卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=zjws",
+    "name": "浙江卫视",
+    "tvgId": "浙江卫视",
+    "tvgName": "浙江卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/浙江卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=dnws",
+    "name": "东南卫视",
+    "tvgId": "东南卫视",
+    "tvgName": "东南卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/东南卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=xmws",
+    "name": "厦门卫视",
+    "tvgId": "厦门卫视",
+    "tvgName": "厦门卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/厦门卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=gdws",
+    "name": "广东卫视",
+    "tvgId": "广东卫视",
+    "tvgName": "广东卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/广东卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=szws",
+    "name": "深圳卫视",
+    "tvgId": "深圳卫视",
+    "tvgName": "深圳卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/深圳卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=gxws",
+    "name": "广西卫视",
+    "tvgId": "广西卫视",
+    "tvgName": "广西卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/广西卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=ynws",
+    "name": "云南卫视",
+    "tvgId": "云南卫视",
+    "tvgName": "云南卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/云南卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=gzws",
+    "name": "贵州卫视",
+    "tvgId": "贵州卫视",
+    "tvgName": "贵州卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/贵州卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=scws",
+    "name": "四川卫视",
+    "tvgId": "四川卫视",
+    "tvgName": "四川卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/四川卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=kbws",
+    "name": "康巴卫视",
+    "tvgId": "康巴卫视",
+    "tvgName": "康巴卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/康巴卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=xjws",
+    "name": "新疆卫视",
+    "tvgId": "新疆卫视",
+    "tvgName": "新疆卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/新疆卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=btws",
+    "name": "兵团卫视",
+    "tvgId": "兵团卫视",
+    "tvgName": "兵团卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/兵团卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=xzws",
+    "name": "西藏卫视",
+    "tvgId": "西藏卫视",
+    "tvgName": "西藏卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/西藏卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=hinws",
+    "name": "海南卫视",
+    "tvgId": "海南卫视",
+    "tvgName": "海南卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/海南卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=ssws",
+    "name": "三沙卫视",
+    "tvgId": "三沙卫视",
+    "tvgName": "三沙卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/三沙卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=hxws",
+    "name": "海峡卫视",
+    "tvgId": "海峡卫视",
+    "tvgName": "海峡卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/海峡卫视.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=bjjskj",
+    "name": "北京纪实科教",
+    "tvgId": "北京纪实",
+    "tvgName": "北京纪实",
+    "tvgLogo": "https://live.fanmingming.com/tv/北京纪实科教.png",
+    "groupTitle": "卫视"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=wxty",
+    "name": "五星体育",
+    "tvgId": "五星体育",
+    "tvgName": "五星体育",
+    "tvgLogo": "https://live.fanmingming.com/tv/五星体育.png",
+    "groupTitle": "上海"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=dfcj",
+    "name": "东方财经",
+    "tvgId": "东方财经",
+    "tvgName": "东方财经",
+    "tvgLogo": "https://live.fanmingming.com/tv/东方财经.png",
+    "groupTitle": "上海"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=dycj",
+    "name": "第一财经",
+    "tvgId": "上海第一财经",
+    "tvgName": "上海第一财经",
+    "tvgLogo": "https://live.fanmingming.com/tv/上海第一财经.png",
+    "groupTitle": "上海"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=hhxd",
+    "name": "哈哈炫动",
+    "tvgId": "哈哈炫动",
+    "tvgName": "哈哈炫动",
+    "tvgLogo": "https://live.fanmingming.com/tv/哈哈炫动.png",
+    "groupTitle": "数字"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=fztd",
+    "name": "法治天地",
+    "tvgId": "SITV法治天地",
+    "tvgName": "SITV法治天地",
+    "tvgLogo": "https://live.fanmingming.com/tv/法治天地.png",
+    "groupTitle": "上海"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=hxjc",
+    "name": "欢笑剧场",
+    "tvgId": "欢笑剧场",
+    "tvgName": "欢笑剧场",
+    "tvgLogo": "https://live.fanmingming.com/tv/欢笑剧场.png",
+    "groupTitle": "数字"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=dsjc",
+    "name": "都市剧场",
+    "tvgId": "SITV都市剧场",
+    "tvgName": "SITV都市剧场",
+    "tvgLogo": "https://live.fanmingming.com/tv/都市剧场.png",
+    "groupTitle": "数字"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=shxwzh",
+    "name": "上海新闻综合",
+    "tvgId": "上视新闻",
+    "tvgName": "上视新闻",
+    "tvgLogo": "https://live.fanmingming.com/tv/上视新闻.png",
+    "groupTitle": "上海"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=shds",
+    "name": "上海都市",
+    "tvgId": "上海都市",
+    "tvgName": "上海都市",
+    "tvgLogo": "https://live.fanmingming.com/tv/上海都市.png",
+    "groupTitle": "上海"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=shics",
+    "name": "上海ICS外语",
+    "tvgId": "上海外语",
+    "tvgName": "上海外语",
+    "tvgLogo": "https://live.fanmingming.com/tv/上海外语.png",
+    "groupTitle": "上海"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=shjsrw",
+    "name": "纪实人文",
+    "tvgId": "上海纪实",
+    "tvgName": "上海纪实",
+    "tvgLogo": "https://live.fanmingming.com/tv/纪实人文.png",
+    "groupTitle": "上海"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=qcxj",
+    "name": "七彩戏剧",
+    "tvgId": "SITV七彩戏剧",
+    "tvgName": "SITV七彩戏剧",
+    "tvgLogo": "https://live.fanmingming.com/tv/七彩戏剧.png",
+    "groupTitle": "上海"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=dmxc",
+    "name": "动漫秀场",
+    "tvgId": "动漫秀场",
+    "tvgName": "动漫秀场",
+    "tvgLogo": "https://live.fanmingming.com/tv/动漫秀场.png",
+    "groupTitle": "数字"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=jbty",
+    "name": "劲爆体育",
+    "tvgId": "SITV劲爆体育",
+    "tvgName": "SITV劲爆体育",
+    "tvgLogo": "https://live.fanmingming.com/tv/劲爆体育.png",
+    "groupTitle": "数字"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=xsj",
+    "name": "新视觉",
+    "tvgId": "新视觉",
+    "tvgName": "新视觉",
+    "tvgLogo": "https://live.fanmingming.com/tv/新视觉.png",
+    "groupTitle": "数字"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=yxfy",
+    "name": "游戏风云",
+    "tvgId": "游戏风云",
+    "tvgName": "游戏风云",
+    "tvgLogo": "https://live.fanmingming.com/tv/游戏风云.png",
+    "groupTitle": "数字"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=shss",
+    "name": "生活时尚",
+    "tvgId": "生活时尚",
+    "tvgName": "生活时尚",
+    "tvgLogo": "https://live.fanmingming.com/tv/生活时尚.png",
+    "groupTitle": "上海"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=jspd",
+    "name": "金色学堂",
+    "tvgId": "SITV金色学堂",
+    "tvgName": "SITV金色学堂",
+    "tvgLogo": "https://live.fanmingming.com/tv/金色学堂.png",
+    "groupTitle": "上海"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=qjs",
+    "name": "乐游",
+    "tvgId": "全纪实",
+    "tvgName": "全纪实",
+    "tvgLogo": "https://live.fanmingming.com/tv/乐游.png",
+    "groupTitle": "数字"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=mlzq",
+    "name": "魅力足球",
+    "tvgId": "魅力足球",
+    "tvgName": "魅力足球",
+    "tvgLogo": "https://live.fanmingming.com/tv/魅力足球.png",
+    "groupTitle": "数字"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=shjy",
+    "name": "上海教育",
+    "tvgId": "上海教育",
+    "tvgName": "上海教育",
+    "tvgLogo": "https://live.fanmingming.com/tv/上海教育.png",
+    "groupTitle": "上海"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=pdtv",
+    "name": "浦东电视台",
+    "tvgId": "浦东电视台",
+    "tvgName": "浦东电视台",
+    "tvgLogo": "https://live.fanmingming.com/tv/浦东电视台.png",
+    "groupTitle": "上海"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cpd",
+    "name": "茶频道",
+    "tvgId": "茶",
+    "tvgName": "茶",
+    "tvgLogo": "https://live.fanmingming.com/tv/茶.png",
+    "groupTitle": "湖南"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=klcd",
+    "name": "快乐垂钓",
+    "tvgId": "快乐垂钓",
+    "tvgName": "快乐垂钓",
+    "tvgLogo": "https://live.fanmingming.com/tv/快乐垂钓.png",
+    "groupTitle": "湖南"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=jyjs",
+    "name": "金鹰纪实",
+    "tvgId": "金鹰纪实",
+    "tvgName": "金鹰纪实",
+    "tvgLogo": "https://live.fanmingming.com/tv/金鹰纪实.png",
+    "groupTitle": "湖南"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=jykt",
+    "name": "金鹰卡通",
+    "tvgId": "湖南金鹰卡通",
+    "tvgName": "湖南金鹰卡通",
+    "tvgLogo": "https://live.fanmingming.com/tv/湖南金鹰卡通.png",
+    "groupTitle": "湖南"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=jjkt",
+    "name": "嘉佳卡通",
+    "tvgId": "嘉佳卡通",
+    "tvgName": "嘉佳卡通",
+    "tvgLogo": "https://live.fanmingming.com/tv/嘉佳卡通.png",
+    "groupTitle": "数字"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cftx",
+    "name": "财富天下",
+    "tvgId": "财富天下",
+    "tvgName": "财富天下",
+    "tvgLogo": "https://live.fanmingming.com/tv/财富天下.png",
+    "groupTitle": "数字"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cetv1",
+    "name": "CETV1",
+    "tvgId": "中国教育1台",
+    "tvgName": "中国教育1台",
+    "tvgLogo": "https://live.fanmingming.com/tv/CETV1.png",
+    "groupTitle": "教育"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cetv2",
+    "name": "CETV2",
+    "tvgId": "中国教育2台",
+    "tvgName": "中国教育2台",
+    "tvgLogo": "https://live.fanmingming.com/tv/CETV2.png",
+    "groupTitle": "教育"
+  },
+  {
+    "url": "http://txycetvbl.centv.cn/cetv3/bjdm.m3u8",
+    "name": "CETV3",
+    "tvgId": "中国教育3台",
+    "tvgName": "中国教育3台",
+    "tvgLogo": "https://live.fanmingming.com/tv/CETV3.png",
+    "groupTitle": "教育"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cetv4",
+    "name": "CETV4",
+    "tvgId": "中国教育4台",
+    "tvgName": "中国教育4台",
+    "tvgLogo": "https://live.fanmingming.com/tv/CETV4.png",
+    "groupTitle": "教育"
+  },
+  {
+    "url": "https://pi.0472.org/tv/hn.php?id=154",
+    "name": "梨园频道",
+    "tvgId": "梨园",
+    "tvgName": "梨园",
+    "tvgLogo": "https://live.fanmingming.com/tv/河南梨园.png",
+    "groupTitle": "河南"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=zgtq",
+    "name": "中国天气",
+    "tvgId": "中国天气",
+    "tvgName": "中国天气",
+    "tvgLogo": "https://live.fanmingming.com/tv/中国天气.png",
+    "groupTitle": "数字"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=fjzh",
+    "name": "福建综合",
+    "tvgId": "福建综合",
+    "tvgName": "福建综合",
+    "tvgLogo": "https://live.fanmingming.com/tv/福建综合.png",
+    "groupTitle": "福建"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=fjxw",
+    "name": "福建新闻",
+    "tvgId": "福建新闻",
+    "tvgName": "福建新闻",
+    "tvgLogo": "https://live.fanmingming.com/tv/福建新闻.png",
+    "groupTitle": "福建"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=fjdsj",
+    "name": "福建电视剧",
+    "tvgId": "福建电视剧",
+    "tvgName": "福建电视剧",
+    "tvgLogo": "https://live.fanmingming.com/tv/福建电视剧.png",
+    "groupTitle": "福建"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=fjwt",
+    "name": "福建文体",
+    "tvgId": "福建文体",
+    "tvgName": "福建文体",
+    "tvgLogo": "https://live.fanmingming.com/tv/福建文体.png",
+    "groupTitle": "福建"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=fjse",
+    "name": "福建少儿",
+    "tvgId": "福建少儿",
+    "tvgName": "福建少儿",
+    "tvgLogo": "https://live.fanmingming.com/tv/福建少儿.png",
+    "groupTitle": "福建"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=fjly",
+    "name": "福建旅游",
+    "tvgId": "福建旅游",
+    "tvgName": "福建旅游",
+    "tvgLogo": "https://live.fanmingming.com/tv/福建旅游.png",
+    "groupTitle": "福建"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=fjjj",
+    "name": "福建经济",
+    "tvgId": "福建经济",
+    "tvgName": "福建经济",
+    "tvgLogo": "https://live.fanmingming.com/tv/福建经济.png",
+    "groupTitle": "福建"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=fjgg",
+    "name": "福建公共",
+    "tvgId": "福建公共",
+    "tvgName": "福建公共",
+    "tvgLogo": "https://live.fanmingming.com/tv/福建公共.png",
+    "groupTitle": "福建"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=fjjy",
+    "name": "福建教育",
+    "tvgId": "福建教育",
+    "tvgName": "福建教育",
+    "tvgLogo": "https://live.fanmingming.com/tv/福建教育.png",
+    "groupTitle": "福建"
+  },
+  {
+    "url": "http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8",
+    "name": "浙江公共新闻",
+    "tvgId": "浙江公共新闻",
+    "tvgName": "浙江公共新闻",
+    "tvgLogo": "https://live.fanmingming.com/tv/浙江新闻.png",
+    "groupTitle": "浙江"
+  },
+  {
+    "url": "http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
+    "name": "浙江国际",
+    "tvgId": "浙江国际",
+    "tvgName": "浙江国际",
+    "tvgLogo": "https://live.fanmingming.com/tv/浙江国际.png",
+    "groupTitle": "浙江"
+  },
+  {
+    "url": "http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
+    "name": "浙江少儿",
+    "tvgId": "浙江少儿",
+    "tvgName": "浙江少儿",
+    "tvgLogo": "https://live.fanmingming.com/tv/浙江少儿.png",
+    "groupTitle": "浙江"
+  },
+  {
+    "url": "http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
+    "name": "浙江教科影视",
+    "tvgId": "浙江教科影视",
+    "tvgName": "浙江教科影视",
+    "tvgLogo": "https://live.fanmingming.com/tv/浙江教科影视.png",
+    "groupTitle": "浙江"
+  },
+  {
+    "url": "http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8",
+    "name": "浙江数码时代",
+    "tvgId": "浙江数码时代",
+    "tvgName": "浙江数码时代",
+    "tvgLogo": "https://live.fanmingming.com/tv/浙江数码时代.png",
+    "groupTitle": "浙江"
+  },
+  {
+    "url": "http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
+    "name": "浙江民生休闲",
+    "tvgId": "浙江民生休闲",
+    "tvgName": "浙江民生休闲",
+    "tvgLogo": "https://live.fanmingming.com/tv/浙江民生休闲.png",
+    "groupTitle": "浙江"
+  },
+  {
+    "url": "http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
+    "name": "浙江经济生活",
+    "tvgId": "浙江经视",
+    "tvgName": "浙江经视",
+    "tvgLogo": "https://live.fanmingming.com/tv/浙江经济生活.png",
+    "groupTitle": "浙江"
+  },
+  {
+    "url": "http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
+    "name": "浙江钱江频道",
+    "tvgId": "浙江钱江都市",
+    "tvgName": "浙江钱江都市",
+    "tvgLogo": "https://live.fanmingming.com/tv/钱江都市.png",
+    "groupTitle": "浙江"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=ktxjx",
+    "name": "看天下精选",
+    "tvgId": "看天下精选",
+    "tvgName": "看天下精选",
+    "tvgLogo": "https://live.fanmingming.com/tv/bestv.png",
+    "groupTitle": "其他"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=hyyy",
+    "name": "华语影院",
+    "tvgId": "华语影院",
+    "tvgName": "华语影院",
+    "tvgLogo": "https://live.fanmingming.com/tv/bestv.png",
+    "groupTitle": "其他"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=djtt",
+    "name": "电竞天堂",
+    "tvgId": "电竞天堂",
+    "tvgName": "电竞天堂",
+    "tvgLogo": "https://live.fanmingming.com/tv/bestv.png",
+    "groupTitle": "其他"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=qcdm",
+    "name": "青春动漫",
+    "tvgId": "青春动漫",
+    "tvgName": "青春动漫",
+    "tvgLogo": "https://live.fanmingming.com/tv/bestv.png",
+    "groupTitle": "其他"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=xgyy",
+    "name": "星光影院",
+    "tvgId": "星光影院",
+    "tvgName": "星光影院",
+    "tvgLogo": "https://live.fanmingming.com/tv/bestv.png",
+    "groupTitle": "其他"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=dzjc",
+    "name": "谍战剧场",
+    "tvgId": "谍战剧场",
+    "tvgName": "谍战剧场",
+    "tvgLogo": "https://live.fanmingming.com/tv/bestv.png",
+    "groupTitle": "其他"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=qqdp",
+    "name": "全球大片",
+    "tvgId": "全球大片",
+    "tvgName": "全球大片",
+    "tvgLogo": "https://live.fanmingming.com/tv/bestv.png",
+    "groupTitle": "其他"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=rmjc",
+    "name": "热门剧场",
+    "tvgId": "热门剧场",
+    "tvgName": "热门剧场",
+    "tvgLogo": "https://live.fanmingming.com/tv/bestv.png",
+    "groupTitle": "其他"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=rmzy",
+    "name": "热门综艺",
+    "tvgId": "热门综艺",
+    "tvgName": "热门综艺",
+    "tvgLogo": "https://live.fanmingming.com/tv/bestv.png",
+    "groupTitle": "其他"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=xqjx",
+    "name": "戏曲精选",
+    "tvgId": "戏曲精选",
+    "tvgName": "戏曲精选",
+    "tvgLogo": "https://live.fanmingming.com/tv/bestv.png",
+    "groupTitle": "其他"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=jkys",
+    "name": "健康养生",
+    "tvgId": "健康养生",
+    "tvgName": "健康养生",
+    "tvgLogo": "https://live.fanmingming.com/tv/bestv.png",
+    "groupTitle": "其他"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=bbkt",
+    "name": "百变课堂",
+    "tvgId": "百变课堂",
+    "tvgName": "百变课堂",
+    "tvgLogo": "https://live.fanmingming.com/tv/bestv.png",
+    "groupTitle": "其他"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=bbdh",
+    "name": "宝宝动画",
+    "tvgId": "宝宝动画",
+    "tvgName": "宝宝动画",
+    "tvgLogo": "https://live.fanmingming.com/tv/bestv.png",
+    "groupTitle": "其他"
+  },
+  {
+    "url": "https://cntv.sbs/tv/cbn.php?id=xfjcHD",
+    "name": "凤凰中文",
+    "tvgId": "凤凰中文",
+    "tvgName": "凤凰中文",
+    "tvgLogo": "https://live.fanmingming.com/tv/凤凰卫视中文台.png",
+    "groupTitle": "港澳"
+  },
+  {
+    "url": "https://pi.0472.org/tv/fct.php?auth=2309081833",
+    "name": "翡翠台",
+    "tvgId": "翡翠台",
+    "tvgName": "翡翠台",
+    "tvgLogo": "https://live.fanmingming.com/tv/翡翠台.png",
+    "groupTitle": "港澳"
+  },
+  {
+    "url": "https://pi.0472.org/tv/mzt.php?auth=2309081833",
+    "name": "明珠台",
+    "tvgId": "明珠台",
+    "tvgName": "明珠台",
+    "tvgLogo": "https://live.fanmingming.com/tv/明珠台.png",
+    "groupTitle": "港澳"
+  },
+  {
+    "url": "https://pi.0472.org/tv/asam.php?auth=2309081833",
+    "name": "澳视澳门",
+    "tvgId": "澳视澳门",
+    "tvgName": "澳视澳门",
+    "tvgLogo": "https://live.fanmingming.com/tv/澳视澳门.png",
+    "groupTitle": "港澳"
+  },
+  {
+    "url": "https://pi.0472.org/tv/aoya.php?auth=2309081833",
+    "name": "澳亚卫视",
+    "tvgId": "澳亚卫视",
+    "tvgName": "澳亚卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/澳亚卫视.png",
+    "groupTitle": "港澳"
+  },
+  {
+    "url": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8",
+    "name": "香港卫视",
+    "tvgId": "香港卫视",
+    "tvgName": "香港卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/香港卫视.png",
+    "groupTitle": "港澳"
+  },
+  {
+    "url": "https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8",
+    "name": "RTHK32",
+    "tvgId": "RTHK32",
+    "tvgName": "RTHK32",
+    "tvgLogo": "https://live.fanmingming.com/tv/RTHK32.png",
+    "groupTitle": "港澳"
+  },
+  {
+    "url": "https://cntv.sbs/tv/lhws.php",
+    "name": "莲花卫视",
+    "tvgId": "莲花卫视",
+    "tvgName": "莲花卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/澳门莲花.png",
+    "groupTitle": "港澳"
+  },
+  {
+    "url": "http://cntv.sbs/tv/cbn.php?id=chcdzdyHD",
+    "name": "CHC动作电影",
+    "tvgId": "CHC动作电影",
+    "tvgName": "CHC动作电影",
+    "tvgLogo": "https://live.fanmingming.com/tv/CHC动作电影.png",
+    "groupTitle": "电影"
+  },
+  {
+    "url": "http://cntv.sbs/tv/cbn.php?id=chcjtyyHD",
+    "name": "CHC家庭影院",
+    "tvgId": "CHC家庭影院",
+    "tvgName": "CHC家庭影院",
+    "tvgLogo": "https://live.fanmingming.com/tv/CHC家庭影院.png",
+    "groupTitle": "电影"
+  },
+  {
+    "url": "http://cntv.sbs/tv/cbn.php?id=chcgqdyHD",
+    "name": "CHC高清电影",
+    "tvgId": "CHC高清电影",
+    "tvgName": "CHC高清电影",
+    "tvgLogo": "https://live.fanmingming.com/tv/CHC高清电影.png",
+    "groupTitle": "电影"
+  },
+  {
+    "url": "https://cntv.sbs/tv?auth=2309081833&id=cgtn",
+    "name": "CGTN",
+    "tvgId": "CGTN",
+    "tvgName": "CGTN",
+    "tvgLogo": "https://live.fanmingming.com/tv/CGTN.png",
+    "groupTitle": "国际"
+  },
+  {
+    "url": "https://livedoc.cgtn.com/500d/prog_index.m3u8",
+    "name": "CGTN记录",
+    "tvgId": "CGTNDOCUMENTARY",
+    "tvgName": "CGTNDOCUMENTARY",
+    "tvgLogo": "https://live.fanmingming.com/tv/CGTNDoc.png",
+    "groupTitle": "国际"
+  },
+  {
+    "url": "https://liveru.cgtn.com/1000r/prog_index.m3u8",
+    "name": "CGTN俄语",
+    "tvgId": "CGTN俄语",
+    "tvgName": "CGTN俄语",
+    "tvgLogo": "https://live.fanmingming.com/tv/CGTN俄语.png",
+    "groupTitle": "国际"
+  },
+  {
+    "url": "https://livefr.cgtn.com/1000f/prog_index.m3u8",
+    "name": "CGTN法语",
+    "tvgId": "CGTN法语",
+    "tvgName": "CGTN法语",
+    "tvgLogo": "https://live.fanmingming.com/tv/CGTN法语.png",
+    "groupTitle": "国际"
+  },
+  {
+    "url": "https://livees.cgtn.com/1000e/prog_index.m3u8",
+    "name": "CGTN西语",
+    "tvgId": "CGTN西语",
+    "tvgName": "CGTN西语",
+    "tvgLogo": "https://live.fanmingming.com/tv/CGTN西语.png",
+    "groupTitle": "国际"
+  },
+  {
+    "url": "https://livear.cgtn.com/1000a/prog_index.m3u8",
+    "name": "CGTN阿语",
+    "tvgId": "CGTN阿语",
+    "tvgName": "CGTN阿语",
+    "tvgLogo": "https://live.fanmingming.com/tv/CGTN阿语.png",
+    "groupTitle": "国际"
+  },
+  {
+    "url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",
+    "name": "NHKWORLD",
+    "tvgId": "NHKWORLD",
+    "tvgName": "NHKWORLD",
+    "tvgLogo": "https://live.fanmingming.com/tv/NHKWorld.png",
+    "groupTitle": "国际"
+  },
+  {
+    "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+    "name": "亚洲新闻",
+    "tvgId": "CHANNELNEWSASIA",
+    "tvgName": "CHANNELNEWSASIA",
+    "tvgLogo": "https://live.fanmingming.com/tv/亚洲新闻.png",
+    "groupTitle": "国际"
+  },
+  {
+    "url": "http://live-hls-web-aja.getaj.net/AJA/02.m3u8",
+    "name": "半岛新闻",
+    "tvgId": "ALJAZEERA",
+    "tvgName": "ALJAZEERA",
+    "tvgLogo": "https://live.fanmingming.com/tv/半岛新闻.png",
+    "groupTitle": "国际"
+  },
+  {
+    "url": "http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+    "name": "Thai PBS 3",
+    "tvgId": "ThaiPBS3",
+    "tvgName": "ThaiPBS3",
+    "tvgLogo": "https://live.fanmingming.com/tv/ThaiPBS.png",
+    "groupTitle": "国际"
+  },
+  {
+    "url": "https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8",
+    "name": "LoveNature 4K",
+    "tvgId": "LoveNature",
+    "tvgName": "LoveNature",
+    "tvgLogo": "https://live.fanmingming.com/tv/LoveNature.png",
+    "groupTitle": "国际"
+  },
+  {
+    "url": "http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8",
+    "name": "FASHIONTV",
+    "tvgId": "FASHIONTV",
+    "tvgName": "FASHIONTV",
+    "tvgLogo": "https://live.fanmingming.com/tv/fashiontv.png",
+    "groupTitle": "国际"
+  },
+  {
+    "url": "http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8",
+    "name": "金砖电视",
+    "tvgId": "金砖电视",
+    "tvgName": "金砖电视",
+    "tvgLogo": "https://live.fanmingming.com/tv/金砖电视.png",
+    "groupTitle": "国际"
+  },
+  {
+    "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8",
+    "name": "亚洲新闻720P",
+    "tvgId": "CHANNELNEWSASIA",
+    "tvgName": "CHANNELNEWSASIA",
+    "tvgLogo": "https://live.fanmingming.com/tv/亚洲新闻.png",
+    "groupTitle": "国际"
+  },
+  {
+    "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+    "name": "亚洲新闻1080P",
+    "tvgId": "CHANNELNEWSASIA",
+    "tvgName": "CHANNELNEWSASIA",
+    "tvgLogo": "https://live.fanmingming.com/tv/亚洲新闻.png",
+    "groupTitle": "国际"
+  },
+  {
+    "url": "http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8",
+    "name": "人间卫视",
+    "tvgId": "人间卫视",
+    "tvgName": "人间卫视",
+    "tvgLogo": "https://live.fanmingming.com/tv/人间卫视.png",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://cdn-live1.qvc.jp/iPhone/800/800.m3u8",
+    "name": "日·QVC",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8",
+    "name": "韩·BBS佛教",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8",
+    "name": "韩·EBS-1",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8",
+    "name": "韩·EBS-1",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8",
+    "name": "韩·EBS-1",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8",
+    "name": "韩·EBS-2",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8",
+    "name": "韩·EBS-2",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8",
+    "name": "韩·EBS少儿",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8",
+    "name": "韩·KBC",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://1.245.74.5:1935/live/tv/.m3u8",
+    "name": "韩·SBS",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+    "name": "韩·阿里郎",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8",
+    "name": "韩·阿里郎WORLD",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8",
+    "name": "韩·HotPlusTV",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://live.tv2bornholm.dk/stream/live/chunklist.m3u8",
+    "name": "VB",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
+    "name": "俄·IGITV蓝光",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://92.50.128.180/utv/1358/index.m3u8",
+    "name": "俄·RBC(Opt-1)[996*560]",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8",
+    "name": "美·NASA Public Channel",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8",
+    "name": "美·NASA Public Channel",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8",
+    "name": "美·红牛运动",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8",
+    "name": "美·红牛运动",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://live.m2.tv/hls3/stream.m3u8",
+    "name": "乌·M2音乐",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://europa-crtvg.flumotion.com/playlist.m3u8",
+    "name": "西·加利西亚欧洲体育电视台",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
+    "name": "希·FoxTV",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8",
+    "name": "越·HBTV",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8",
+    "name": "番薯",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8",
+    "name": "耀才财经",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8",
+    "name": "耀才财经",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8",
+    "name": "ABC新闻",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+    "name": "NewsmaxTV",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "https://pbs-samsunguk.amagi.tv/playlist.m3u8",
+    "name": "PBSAmerica",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8",
+    "name": "moviesphere",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "https://edgesport-samsunguk.amagi.tv/playlist.m3u8",
+    "name": "EdgeSport",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8",
+    "name": "CanadaOne",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8",
+    "name": "CA",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8",
+    "name": "InsightTV",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://streaming.astrakhan.ru/astrakhan24/index.m3u8",
+    "name": "Astrakhan24(Opt-2)",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8",
+    "name": "Самара",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://51.210.199.27/hls/stream.m3u8",
+    "name": "Comedy",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://51.210.199.23/hls/stream.m3u8",
+    "name": "Documentary",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://51.210.199.19/hls/stream.m3u8",
+    "name": "Family",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://51.210.199.22/hls/stream.m3u8",
+    "name": "Iranian",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://51.210.199.24/hls/stream.m3u8",
+    "name": "Music",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://51.210.199.20/hls/stream.m3u8",
+    "name": "Nostalgia",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+    "name": "韩国-Arirang",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8",
+    "name": "韩国-EBS1",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8",
+    "name": "韩国-EBS2",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8",
+    "name": "韩国-EBSe",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8",
+    "name": "韩国-KCTV",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8",
+    "name": "韩国-MBC综合频道",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8",
+    "name": "韩国-NBS Korea Agricultural Broadc",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://stream1.shopch.jp/HLS/out1/prog_index.m3u8",
+    "name": "日本购物1",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "https://stream3.shopch.jp/HLS/master.m3u8",
+    "name": "日本Shop Channel",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8",
+    "name": "长城精品",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8",
+    "name": "香港佛陀",
+    "groupTitle": "测试频道"
+  },
+  {
+    "url": "https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b",
+    "name": "儒释道经",
+    "groupTitle": "测试频道"
+  }
+]

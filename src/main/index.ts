@@ -1,15 +1,10 @@
 import { BrowserWindow, app } from 'electron'
-import log from 'electron-log'
 import { loadDevTools } from './dev'
 import {
-  beforeQuit,
   create as createMainWindow,
   focus as focusMainWindow,
 } from './windows/main'
 import handleIPC from './ipc'
-import './menu'
-import './tray'
-import './proxy'
 
 const gotTheLock = app.requestSingleInstanceLock()
 
@@ -41,7 +36,3 @@ app.on('activate', () => {
     focusMainWindow()
   }
 })
-
-app.on('before-quit', beforeQuit)
-
-// TODO mac 音乐控制
