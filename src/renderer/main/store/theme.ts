@@ -34,12 +34,13 @@ const storage: StateStorage = {
 export const useThemeStore = create(
   persist<ThemeState>(
     (set) => ({
-      theme: 'light',
+      theme: window.matchMedia('(prefers-color-scheme: dark)').matches
+        ? 'dark'
+        : 'light',
       setTheme: (t) => set({ theme: t }),
     }),
     {
       name: LOCAL_THEME,
-      storage: createJSONStorage(() => storage),
     }
   )
 )

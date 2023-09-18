@@ -1,5 +1,3 @@
-'use client'
-
 import React, { memo, useEffect, useRef } from 'react'
 import Hls from 'hls.js'
 

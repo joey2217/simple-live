@@ -1,6 +1,6 @@
 {
   "name": "simple-live",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple-live",
   "main": "./dist/main.js",
   "scripts": {
@@ -14,8 +14,11 @@
     "test": "vitest",
     "postinstall": "electron-builder install-app-deps"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "electron",
+    "tv"
+  ],
+  "author": "Joey",
   "license": "ISC",
   "dependencies": {
     "electron-log": "^4.4.8",

@@ -1,4 +1,3 @@
-/* eslint-disable no-template-curly-in-string */
 const nameEN = 'tv'
 
 /**
@@ -8,7 +7,7 @@ const nameEN = 'tv'
 module.exports = {
   productName: 'TV',
   appId: 'com.joey.tv',
-  artifactName: nameEN + '-${version}-${os}-${arch}.${ext}',
+  artifactName: `${nameEN}-\${version}-\${os}-\${arch}.\${ext}`,
   directories: {
     output: 'release',
     buildResources: 'resources',

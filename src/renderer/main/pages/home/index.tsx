@@ -33,7 +33,7 @@ const Home: React.FC = () => {
         </button>
         <div className="divide-y">
           {channels.map((c) => (
-            <div className="flex items-center gap-2 py-1">
+            <div key={c.url} className="flex items-center gap-2 py-1">
               <div className="w-4">{playUrl === c.url && <PlayIcon />}</div>
               <div
                 className="cursor-pointer flex-1"
